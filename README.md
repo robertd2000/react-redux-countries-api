@@ -1,3 +1,11 @@
+Приложение по поиску стран мира
+
+Показывает список стран мира и информацию о стране
+
+Можно фильтровать страны по региону, численности населения, названию
+
+[Test](https://robertd2000.github.io/react-redux-countries-api/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
