@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-redux-countries-api/static/css/main.6f54ee7a.chunk.css",
+    "main.js": "/react-redux-countries-api/static/js/main.e2460789.chunk.js",
+    "main.js.map": "/react-redux-countries-api/static/js/main.e2460789.chunk.js.map",
+    "runtime-main.js": "/react-redux-countries-api/static/js/runtime-main.a2aef8db.js",
+    "runtime-main.js.map": "/react-redux-countries-api/static/js/runtime-main.a2aef8db.js.map",
+    "static/js/2.417073b9.chunk.js": "/react-redux-countries-api/static/js/2.417073b9.chunk.js",
+    "static/js/2.417073b9.chunk.js.map": "/react-redux-countries-api/static/js/2.417073b9.chunk.js.map",
+    "static/js/3.44531f80.chunk.js": "/react-redux-countries-api/static/js/3.44531f80.chunk.js",
+    "static/js/3.44531f80.chunk.js.map": "/react-redux-countries-api/static/js/3.44531f80.chunk.js.map",
+    "index.html": "/react-redux-countries-api/index.html",
+    "static/css/main.6f54ee7a.chunk.css.map": "/react-redux-countries-api/static/css/main.6f54ee7a.chunk.css.map",
+    "static/js/2.417073b9.chunk.js.LICENSE.txt": "/react-redux-countries-api/static/js/2.417073b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2aef8db.js",
+    "static/js/2.417073b9.chunk.js",
+    "static/css/main.6f54ee7a.chunk.css",
+    "static/js/main.e2460789.chunk.js"
+  ]
+}
